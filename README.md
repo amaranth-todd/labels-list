@@ -1,6 +1,6 @@
 # Labels List for Hyperglitch Weirdos
 
-TODO: add links and formatting; maybe add description, genres, dead, physical only etc.
+TODO: add links (home pages) and formatting; maybe add description, genres, dead, physical only etc.
 
 - mille plateau/force inc
 - detroit underground
