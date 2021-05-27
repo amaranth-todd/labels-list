@@ -1,47 +1,50 @@
 # Labels List for Hyperglitch Weirdos
 
-TODO: sort by name, add links (home pages) and formatting; maybe add description, genres, status, physical only etc.
+TODO: formatting; maybe add description/notes, genres, status, physical releases etc.
 
-- force inc / mille plateaux https://forceincmilleplateaux.bandcamp.com/
-- detroit underground https://detund.bandcamp.com/
-- yuku https://yukumusic.bandcamp.com/
-- renraku https://renraku.bandcamp.com/
-- paracusia https://paracusiamedia.bandcamp.com/
+## Legend
+💀 - hiatus 🚫 - not accepting demos 💿 - primarily physical releases
 
-## to check:
-- hymen https://hymen-records.bandcamp.com/
-- opal tapes (physical) https://opaltapes.com/
-- the tapeworm (physical) https://the-tapeworm.bandcamp.com/
-- Kaer'Uiks https://kaer-uiks.bandcamp.com/
-- kaometry https://store.kaometry.com/
-- mozyk https://music.mozyk.net/
-- praxis https://praxisrecords.bandcamp.com/
-- cruel nature (physical) https://cruelnaturerecordings.bandcamp.com/
-- abstrakt reflections https://abstraktreflections.bandcamp.com/
-- amek https://amekcollective.bandcamp.com/
-- bedroom research https://bedroomresearch.bandcamp.com/
-- future disorder: https://futuredisorder.bandcamp.com/
-- cut n paste records https://cutandpasterecords.bandcamp.com/
-- m-tronic https://m-tronic.bandcamp.com/
-- brainfeeder https://brainfeeder.bandcamp.com/
-- enig'matik https://enigmatikrecords.bandcamp.com/
-- mesh https://meshmeshmesh.bandcamp.com/
-- subtext https://subtextrecordings.bandcamp.com/
-- serendip lab https://serendiplab.bandcamp.com/
-- love love records https://loveloverecords.bandcamp.com/
-- occult research https://occultresearch.bandcamp.com/
-- kitty on fire https://kittyonfirerecords.bandcamp.com/
-- peace off https://peaceoff.bandcamp.com/
-- Beta Bodega Coalition https://betabodegacoalition.bandcamp.com/
-- planet mu https://planetmu.bandcamp.com/
-- objects limited https://objects.limited/
-- defkon1 https://defkon1.bandcamp.com/
-- Paraneutral https://paraneutralrecords.bandcamp.com/
-- The Rust https://therustmusic.bandcamp.com/
-- Gravitas https://music.gravitasrecordings.com/
-- Time Resonance Music https://timeresonancemusic.bandcamp.com/
-- concrete collage https://concretecollage.bandcamp.com/
-- outlier recordings (hiatus) https://outlierrecordings.bandcamp.com/
-- weisskalt https://weisskaltrecords.bandcamp.com/
-- irritable hedgehog https://recordings.irritablehedgehog.com/
-- black moon syndicate https://blackmoonsyndicate.bandcamp.com/
+## Labels
+- [Abstrakt Reflections](https://abstraktreflections.bandcamp.com/)
+- [Amek Collective](https://amekcollective.bandcamp.com/)
+- [Bedroom Research](https://bedroomresearch.bandcamp.com/)
+- [Beta Bodega Coalition](https://betabodegacoalition.bandcamp.com/)
+- [Black Moon Syndicate](https://blackmoonsyndicate.bandcamp.com/)
+- [Brainfeeder](https://brainfeeder.bandcamp.com/)
+- [Concrete Collage}(https://concretecollage.bandcamp.com/)
+- [Cruel Nature Records](https://cruelnaturerecordings.bandcamp.com/) 💿
+- [Cut & Paste Records](https://cutandpasterecords.bandcamp.com/)
+- [DEFCON 1](https://defkon1.bandcamp.com/)
+- [DETROIT UNDERGROUND](https://detund.bandcamp.com/)
+- [Enig'matik Records](https://enigmatikrecords.bandcamp.com/)
+- [Force Inc. / Mille Plateaux](https://forceincmilleplateaux.bandcamp.com/)
+- [Future Disorder](https://futuredisorder.bandcamp.com/)
+- [Gravitas Recordings](https://music.gravitasrecordings.com/)
+- [hymen records](https://hymen-records.bandcamp.com/)
+- [Irritable Hedgehog](https://recordings.irritablehedgehog.com/)
+- [Kaer'Uiks](https://kaer-uiks.bandcamp.com/)
+- [Kaometry rec.](https://store.kaometry.com/)
+- [Kitty On Fire Records](https://kittyonfirerecords.bandcamp.com/)
+- [Love Love Records](https://loveloverecords.bandcamp.com/)
+- [m-tronic](https://m-tronic.bandcamp.com/)
+- [Mesh](https://meshmeshmesh.bandcamp.com/)
+- [MOZYK.NET](https://music.mozyk.net/)
+- [Objects Limited](https://objects.limited/)
+- [Occult Research](https://occultresearch.bandcamp.com/) 🚫
+- [OUTLIER RECORDINGS](https://outlierrecordings.bandcamp.com/) 💀
+- [Opal Tapes](https://opaltapes.com/) 💿
+- [Paracusia Media](https://paracusiamedia.bandcamp.com/)
+- [Paraneutral Records](https://paraneutralrecords.bandcamp.com/)
+- [PEACE OFF](https://peaceoff.bandcamp.com/)
+- [Planet Mu](https://planetmu.bandcamp.com/)
+- [Praxis](https://praxisrecords.bandcamp.com/)
+- [Renraku](https://renraku.bandcamp.com/)
+- [The Rust Music](https://therustmusic.bandcamp.com/)
+- [Serendip Lab](https://serendiplab.bandcamp.com/)
+- [Subtext Recordings](https://subtextrecordings.bandcamp.com/)
+- [The Tapeworm](https://the-tapeworm.bandcamp.com/) 💿
+- [Terra Null Recordings](https://terranullrecordings.bandcamp.com/) 💀
+- [Time Resonance Music](https://timeresonancemusic.bandcamp.com/)
+- [Weisskalt Records](https://weisskaltrecords.bandcamp.com/)
+- [YUKU](https://yukumusic.bandcamp.com/)
