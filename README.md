@@ -3,7 +3,11 @@
 TODO: formatting; maybe add description/notes, genres, status, physical releases etc.
 
 ## Legend
-💀 - hiatus 🚫 - not accepting demos 💿 - primarily physical releases
+💀 - hiatus
+
+🚫 - not accepting demos
+
+💿 - primarily physical releases
 
 ## Labels
 - [Abstrakt Reflections](https://abstraktreflections.bandcamp.com/)
