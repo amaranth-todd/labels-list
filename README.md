@@ -35,3 +35,4 @@ TODO: sort by name, add links (home pages) and formatting; maybe add description
 - Beta Bodega Coalition https://betabodegacoalition.bandcamp.com/
 - planet mu https://planetmu.bandcamp.com/
 - objects limited https://objects.limited/
+- defkon1 https://defkon1.bandcamp.com/
