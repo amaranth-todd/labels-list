@@ -1,6 +1,6 @@
 # Labels List for Hyperglitch Weirdos
 
-TODO: sort by name, add links (home pages) and formatting; maybe add description, genres, dead, physical only etc.
+TODO: sort by name, add links (home pages) and formatting; maybe add description, genres, status, physical only etc.
 
 - force inc / mille plateaux https://forceincmilleplateaux.bandcamp.com/
 - detroit underground https://detund.bandcamp.com/
@@ -36,3 +36,12 @@ TODO: sort by name, add links (home pages) and formatting; maybe add description
 - planet mu https://planetmu.bandcamp.com/
 - objects limited https://objects.limited/
 - defkon1 https://defkon1.bandcamp.com/
+- Paraneutral https://paraneutralrecords.bandcamp.com/
+- The Rust https://therustmusic.bandcamp.com/
+- Gravitas https://music.gravitasrecordings.com/
+- Time Resonance Music https://timeresonancemusic.bandcamp.com/
+- concrete collage https://concretecollage.bandcamp.com/
+- outlier recordings (hiatus) https://outlierrecordings.bandcamp.com/
+- weisskalt https://weisskaltrecords.bandcamp.com/
+- irritable hedgehog https://recordings.irritablehedgehog.com/
+- black moon syndicate https://blackmoonsyndicate.bandcamp.com/
