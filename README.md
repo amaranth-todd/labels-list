@@ -7,12 +7,12 @@ TODO: formatting; maybe add description/notes, genres, status, physical releases
 
 ## Labels
 - [Abstrakt Reflections](https://abstraktreflections.bandcamp.com/)
-- [Amek Collective](https://amekcollective.bandcamp.com/)
+- [Amek Collective](https://amekcollective.bandcamp.com/) 🚫
 - [Bedroom Research](https://bedroomresearch.bandcamp.com/)
 - [Beta Bodega Coalition](https://betabodegacoalition.bandcamp.com/)
 - [Black Moon Syndicate](https://blackmoonsyndicate.bandcamp.com/)
 - [Brainfeeder](https://brainfeeder.bandcamp.com/)
-- [Concrete Collage}(https://concretecollage.bandcamp.com/)
+- [Concrete Collage](https://concretecollage.bandcamp.com/)
 - [Cruel Nature Records](https://cruelnaturerecordings.bandcamp.com/) 💿
 - [Cut & Paste Records](https://cutandpasterecords.bandcamp.com/)
 - [DEFCON 1](https://defkon1.bandcamp.com/)
