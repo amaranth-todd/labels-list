@@ -31,7 +31,7 @@ Note: contact and demo submission information may change without warning. Please
 - [Cut & Paste Records](https://cutandpasterecords.bandcamp.com/)
 - [DEFCON 1](https://defkon1.bandcamp.com/) ❤️
 	- Demo submissions: defkon1label@gmail.com
-- [DETROIT UNDERGROUND](https://detund.bandcamp.com/)
+- [DETROIT UNDERGROUND](https://detund.bandcamp.com/) ❤️
 - [Enig'matik Records](https://enigmatikrecords.bandcamp.com/) ❤️
 - [Force Inc. / Mille Plateaux](https://forceincmilleplateaux.bandcamp.com/) ❤️
 - [Forest Biz](https://forestbiz.bandcamp.com/) 🚫
