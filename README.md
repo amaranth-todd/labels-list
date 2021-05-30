@@ -28,7 +28,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Demo submissions: lamanofria@gmail.com
 
 
-- [Billegal Beats](https://billegalbeats.bandcamp.com/)
+- [Billegal Beats](https://billegalbeats.bandcamp.com/) ❤️
 	- Tags: dubstep, experimental, glitch, glitch hop, idm
 	- Demo submissions: [here](https://billegalbeats.com/submit-your-demo/).
 
@@ -39,7 +39,7 @@ Note: contact and demo submission information may change without warning. Please
 - [Brainfeeder](https://brainfeeder.bandcamp.com/)
 	- Tags: bass, beats, drum & bass, experimental, trap
 
-- [Concrete Collage](https://concretecollage.bandcamp.com/) 🚫
+- [Concrete Collage](https://concretecollage.bandcamp.com/) ❤️ 🚫
 	- Tags: acid, braindance, breakcore, idm
 
 - [Cruel Nature Records](https://cruelnaturerecordings.bandcamp.com/) 💿
@@ -61,7 +61,7 @@ Note: contact and demo submission information may change without warning. Please
 - [Force Inc. / Mille Plateaux](https://forceincmilleplateaux.bandcamp.com/) ❤️
 	- Tags: experimental, glitch, techno
 
-- [Forest Biz](https://forestbiz.bandcamp.com/) 🚫
+- [Forest Biz](https://forestbiz.bandcamp.com/) ❤️ 🚫
 	- Tags: beats, dance, dubstep, drum & bass, idm
 
 - [Future Disorder](https://futuredisorder.bandcamp.com/)
@@ -74,9 +74,6 @@ Note: contact and demo submission information may change without warning. Please
 
 - [hymen records](https://hymen-records.bandcamp.com/)
 	- Tags: ambient, breakcore, dubstep, downtempo, idm
-
-- [Irritable Hedgehog](https://recordings.irritablehedgehog.com/)
-	- Tags: ambient, drone, experimental
 
 - [Jebaćtyhihten Records](https://jebactyhihten.bandcamp.com/) ❤️
 	- Tags: breakcore, experimental, glitch, idm
@@ -94,7 +91,7 @@ Note: contact and demo submission information may change without warning. Please
 - [Love Love Records](https://loveloverecords.bandcamp.com/)
 	- Tags: acid, breakcore, experimental, idm, techno
 
-- [m-tronic](https://m-tronic.bandcamp.com/)
+- [m-tronic](https://m-tronic.bandcamp.com/) ❤️
 	- Tags: ambient, breakbeat, idm, industrial
 	- Demo submissions: info@m-tronic.com, demos with at least 6 tracks only.
 
@@ -113,7 +110,7 @@ Note: contact and demo submission information may change without warning. Please
 - [Occult Research](https://occultresearch.bandcamp.com/) 🚫
 	- Tags: acid, breaks, experimental, idm, techno
 
-- [Open Outlets](https://openoutlets.bandcamp.com/)
+- [Open Outlets](https://openoutlets.bandcamp.com/) ❤️
 	- Tags: drum & bass, dubstep, psychedelic, techno
 	- Demo submissions: openoutlets@gmail.com
 
@@ -123,7 +120,7 @@ Note: contact and demo submission information may change without warning. Please
 - [OUTLIER RECORDINGS](https://outlierrecordings.bandcamp.com/) ❤️ 💀
 	- Tags: ambient, bass music, beats, experimental, glitch
 
-- [Outtallectuals](https://www.outtallectuals.com/)
+- [Outtallectuals](https://www.outtallectuals.com/) ❤️
 	- Tags: ambient, experimental, glitch, idm
 	- Demo submissions: [here](https://www.submithub.com/label/outtallectuals).
 
@@ -140,6 +137,10 @@ Note: contact and demo submission information may change without warning. Please
 - [Planet Mu](https://planetmu.bandcamp.com/)
 	- Tags: bass music, drum & bass, idm, trap, techno
 	- Demo submissions: demo@planet.mu, audio streaming links only.
+
+- [Point Source Electronic Arts](https://pointsourcearts.bandcamp.com/) ❤️
+	- Tags: glitch, idm, post-industrial
+	- Demo submissions: pointsourcearts@gmail.com
 
 - [Praxis](https://praxisrecords.bandcamp.com/)
 	- Tags: breakcore, drum & bass, hardcore, noise
