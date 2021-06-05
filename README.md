@@ -14,7 +14,10 @@ Note: contact and demo submission information may change without warning. Please
 ## Labels
 - [Abstrakt Reflections](https://abstraktreflections.bandcamp.com/) ❤️
 	- Tags: abstract, experimental, glitch, idm, sound design
-	- Demo submissions: demos@abstraktreflections.net, avoid sending Soundcloud links or single tracks, use a service like WeTransfer, Dropbox etc. 
+	- Demo submissions: demos@abstraktreflections.net, avoid sending Soundcloud links or single tracks, use a service like WeTransfer, Dropbox etc.
+
+- [Acre Recordings](https://acrerecordings.bandcamp.com/)
+	- Tags: experimental, glitch, idm, techno
 
 - [Amek Collective](https://amekcollective.bandcamp.com/) 🚫
 	- Tags: ambient, drone, experimental, field recordings, noise
@@ -27,7 +30,6 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: ambient, experimental, glitch, idm
 	- Demo submissions: lamanofria@gmail.com
 
-
 - [Billegal Beats](https://billegalbeats.bandcamp.com/) ❤️
 	- Tags: dubstep, experimental, glitch, glitch hop, idm
 	- Demo submissions: [here](https://billegalbeats.com/submit-your-demo/).
@@ -38,6 +40,9 @@ Note: contact and demo submission information may change without warning. Please
 
 - [Brainfeeder](https://brainfeeder.bandcamp.com/)
 	- Tags: bass, beats, drum & bass, experimental, trap
+
+- [Clean Error](https://cleanerrorrecords.bandcamp.com/)
+	- Tags: abstract, ambient, experimental, glitch, idm
 
 - [Concrete Collage](https://concretecollage.bandcamp.com/) ❤️ 🚫
 	- Tags: acid, braindance, breakcore, idm
@@ -55,8 +60,15 @@ Note: contact and demo submission information may change without warning. Please
 - [DETROIT UNDERGROUND](https://detund.bandcamp.com/) ❤️
 	- Tags: ambient, experimental, glitch, idm, techno
 
+- [DIVISION](https://soundcloud.com/divisionrecordings)
+	- Tags: bass music, drum & bass, grime, house, neuro
+	- Demo submissions: https://visionrecordings.nl/demos, track(s) must not be publically available, use a private Soundcloud link, enable downloads (mp3 only), include a valid email address.
+
 - [Enig'matik Records](https://enigmatikrecords.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, glitch, glitch hop, idm
+
+- [EXILES](https://exiles-electronics.bandcamp.com/)
+	- Tags: ambient, experimental, idm, industrial, techno
 
 - [Force Inc. / Mille Plateaux](https://forceincmilleplateaux.bandcamp.com/) ❤️
 	- Tags: experimental, glitch, techno
@@ -75,6 +87,9 @@ Note: contact and demo submission information may change without warning. Please
 - [hymen records](https://hymen-records.bandcamp.com/)
 	- Tags: ambient, breakcore, dubstep, downtempo, idm
 
+- [IDMforums Netlabel](https://idmfnetlabel.bandcamp.com/)
+	- Tags: ambient, breaks, glitch, idm, techno
+
 - [Jebaćtyhihten Records](https://jebactyhihten.bandcamp.com/) ❤️
 	- Tags: breakcore, experimental, glitch, idm
 
@@ -87,6 +102,10 @@ Note: contact and demo submission information may change without warning. Please
 - [Kitty On Fire Records](https://kittyonfirerecords.bandcamp.com/)
 	- Tags: breakcore, hardcore, drum & bass, experimental
 	- Demo submissions: info.kittyonfirerecords@gmail.com or via [Facebook](https://www.facebook.com/kittyonfire/), .wav files only.
+
+- [kranky](https://kranky.bandcamp.com/)
+	- Tags: ambient, drone, experimental
+	- Demo submissions: krankyinfo@gmail.com
 
 - [Love Love Records](https://loveloverecords.bandcamp.com/)
 	- Tags: acid, breakcore, experimental, idm, techno
@@ -134,6 +153,9 @@ Note: contact and demo submission information may change without warning. Please
 - [PEACE OFF](https://peaceoff.bandcamp.com/)
 	- Tags: breakcore, dubstep, glitch, hardcore
 
+- [People Can Listen](https://peoplecanlisten.bandcamp.com/)
+	- Tags: ambient, downtempo, experimental, glitch, idm
+
 - [Planet Mu](https://planetmu.bandcamp.com/)
 	- Tags: bass music, drum & bass, idm, trap, techno
 	- Demo submissions: demo@planet.mu, audio streaming links only.
@@ -151,6 +173,9 @@ Note: contact and demo submission information may change without warning. Please
 
 - [The Rust Music](https://therustmusic.bandcamp.com/)
 	- Tags: bass music, downtempo, experimental, glitch, idm
+
+- [S27](https://section27.bandcamp.com/)
+	- Tags: ambient, experimental, idm, industrial, techno
 
 - [Serendip Lab](https://serendiplab.bandcamp.com/)
 	- Tags: experimental, glitch, idm, industrial, synthwave
@@ -170,8 +195,18 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: ambient, bass music, downtempo, drum & bass, experimental, idm, psychedelic
 	- Demo submissions: mindex@inbox.ru
 
+- [VISION](https://soundcloud.com/VisionRecordings)
+	- Tags: bass music, drum & bass, neuro
+	- Demo submissions: https://visionrecordings.nl/demos, track(s) must not be publically available, use a private Soundcloud link, enable downloads (mp3 only), include a valid email address.
+
 - [Weisskalt Records](https://weisskaltrecords.bandcamp.com/) ❤️
 	- Tags: experimental, psychedelic
+
+- [White Peach](https://whitepeach.bandcamp.com/) 💿
+	- bass music, dubstep, grime, idm, trap
+
+- [Yellow Machines](https://yellow-machines.bandcamp.com/)
+	- Tags: electro, hardcore, idm, jungle
 
 - [YUKU](https://yukumusic.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, dubstep, experimental, idm, techno
