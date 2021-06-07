@@ -22,6 +22,10 @@ Note: contact and demo submission information may change without warning. Please
 - [Amek Collective](https://amekcollective.bandcamp.com/) 🚫
 	- Tags: ambient, drone, experimental, field recordings, noise
 
+- [aural electronics](https://aural-electronics.bandcamp.com/) ❤️
+	- Tags: abstract, ambient, experimental, idm, techno
+	- Demo submissions: auralelectronics.info@gmail.com
+
 - [Bedroom Research](https://bedroomresearch.bandcamp.com/) 💀
 	- Tags: breakcore, dubstep, idm, sound design, techno
 	- Demo submissions: audio streaming links only.
@@ -66,6 +70,10 @@ Note: contact and demo submission information may change without warning. Please
 
 - [Enig'matik Records](https://enigmatikrecords.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, glitch, glitch hop, idm
+
+- [EVEL RECORDS](https://evel.bandcamp.com/)
+	- Tags: acid, breaks, drum & bass, idm
+	- Demo submissions: demos@evelrecords.com
 
 - [EXILES](https://exiles-electronics.bandcamp.com/)
 	- Tags: ambient, experimental, idm, industrial, techno
@@ -204,6 +212,10 @@ Note: contact and demo submission information may change without warning. Please
 
 - [White Peach](https://whitepeach.bandcamp.com/) 💿
 	- bass music, dubstep, grime, idm, trap
+
+- [Xephem Records](https://xephem.bandcamp.com/) ❤️
+	- Tags: acid, braindance, idm, techno
+	- Demos submissions: via [Soundcloud](https://soundcloud.com/xephem-records) or [Facebook](https://www.facebook.com/xephem) direct message.
 
 - [Yellow Machines](https://yellow-machines.bandcamp.com/)
 	- Tags: electro, hardcore, idm, jungle
