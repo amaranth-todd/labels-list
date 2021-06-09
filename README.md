@@ -92,6 +92,9 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: bass music, downtempo, tribal, world, trap
 	- Demo submissions: [here](https://gravitasrecordings.com/demo-submissions/).
 
+- [husoptagelser](https://husoptagelser.bandcamp.com/) ❤️ 💀
+	- Tags: ambient, beats, electronica, glitch, hiphop
+
 - [hymen records](https://hymen-records.bandcamp.com/)
 	- Tags: ambient, breakcore, dubstep, downtempo, idm
 
@@ -174,6 +177,10 @@ Note: contact and demo submission information may change without warning. Please
 
 - [Praxis](https://praxisrecords.bandcamp.com/)
 	- Tags: breakcore, drum & bass, hardcore, noise
+
+- [Prrrrrrr Records](https://prrrrrrr.bandcamp.com/)
+	- Tags: beats, experimental, jazz, post-dubstep
+	- Demo submissions: info@prrrrrrr.de
 
 - [Renraku](https://renraku.bandcamp.com/)
 	- Tags: dubstep, drum & bass, experimental, glitch, idm, techno
