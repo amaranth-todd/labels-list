@@ -101,7 +101,7 @@ Note: contact and demo submission information may change without warning. Please
 - [IDMforums Netlabel](https://idmfnetlabel.bandcamp.com/)
 	- Tags: ambient, breaks, glitch, idm, techno
 
-- [Inspected](https://inspected.bandcamp.com/) 💿
+- [Inspected](https://inspected.bandcamp.com/)
 	- Tags: breaks, downtempo, drum & bass, dubstep, glitch
 
 - [Jebaćtyhihten Records](https://jebactyhihten.bandcamp.com/) ❤️
