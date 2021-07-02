@@ -57,6 +57,9 @@ Note: contact and demo submission information may change without warning. Please
 - [Cut & Paste Records](https://cutandpasterecords.bandcamp.com/)
 	- Tags: beats, experimental, turntablism
 
+- [D-Trash Records](https://d-trashrecords.bandcamp.com/) ❤️
+	- Tags: abstract, breakcore, hardcore, metal, techno 
+
 - [DEFCON 1](https://defkon1.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, dubstep, experimental
 	- Demo submissions: defkon1label@gmail.com
