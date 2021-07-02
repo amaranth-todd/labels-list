@@ -143,6 +143,9 @@ Note: contact and demo submission information may change without warning. Please
 - [Occult Research](https://occultresearch.bandcamp.com/) 🚫
 	- Tags: acid, breaks, experimental, idm, techno
 
+- [Onset Audio](https://onsetaudio.bandcamp.com/)
+	- Tags: ambient, bass music, beats, experimental, techno 
+
 - [Open Outlets](https://openoutlets.bandcamp.com/) ❤️
 	- Tags: drum & bass, dubstep, psychedelic, techno
 	- Demo submissions: openoutlets@gmail.com
