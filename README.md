@@ -133,6 +133,7 @@ Note: contact and demo submission information may change without warning. Please
 
 - [Mahorka](https://mahorka.bandcamp.com/)
 	- Tags: ambient, abstract, drone, experimental, idm
+	- Demo submissions: evil.petrov@gmail.com
 
 - [Mesh](https://meshmeshmesh.bandcamp.com/)
 	- Tags: ambient, experimental, idm, techno
