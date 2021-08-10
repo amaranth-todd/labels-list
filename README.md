@@ -195,6 +195,10 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: beats, experimental, jazz, post-dubstep
 	- Demo submissions: info@prrrrrrr.de
 
+- [Pyramid Transmissions](https://pyramidtransmissions.bandcamp.com/)
+	- Tags: adid, bass music, idm, techno
+	- Demo submissions: demos@pyramidtransmissions.com, send high quality audio files (preferably WAVs, FLACs or AIFFs) rather than linking to audio streaming sites.
+
 - [Renraku](https://renraku.bandcamp.com/)
 	- Tags: dubstep, drum & bass, experimental, glitch, idm, techno
 	- Demo submissions: demos@renraku.global, audio streaming links only (preferably Soundcloud), please include contact details in email body.
