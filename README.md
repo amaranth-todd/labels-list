@@ -196,7 +196,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Demo submissions: info@prrrrrrr.de
 
 - [Pyramid Transmissions](https://pyramidtransmissions.bandcamp.com/)
-	- Tags: adid, bass music, idm, techno
+	- Tags: acid, bass music, idm, techno
 	- Demo submissions: demos@pyramidtransmissions.com, send high quality audio files (preferably WAVs, FLACs or AIFFs) rather than linking to audio streaming sites.
 
 - [Renraku](https://renraku.bandcamp.com/)
