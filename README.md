@@ -203,6 +203,9 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: dubstep, drum & bass, experimental, glitch, idm, techno
 	- Demo submissions: demos@renraku.global, audio streaming links only (preferably Soundcloud), please include contact details in email body.
 
+- [Roulette Rekordz](https://rrkz.bandcamp.com/)
+	- Tags: acid, breakbeat, electro, experimental
+
 - [The Rust Music](https://therustmusic.bandcamp.com/)
 	- Tags: bass music, downtempo, experimental, glitch, idm
 
@@ -231,6 +234,9 @@ complete (no mixes or snippets) 320 kbps MP3s.
 - [Time Resonance Music](https://timeresonancemusic.bandcamp.com/) ❤️
 	- Tags: ambient, bass music, downtempo, drum & bass, experimental, idm, psychedelic
 	- Demo submissions: mindex@inbox.ru
+
+- [Touched Music](https://touched.bandcamp.com/) ❤️
+	- Tags: ambient, braindance, electronica, idm
 
 - [VISION](https://soundcloud.com/VisionRecordings)
 	- Tags: bass music, drum & bass, neuro
