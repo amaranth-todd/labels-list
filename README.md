@@ -95,6 +95,13 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: ambient, downtempo, experimental, glitch, idm
 	- Demo submissions: camiloisdead@aol.com, unpublished/unreleased tracks only.
 
+- [Geometric Corruption](https://geometriccorruption.bandcamp.com/) ❤️
+	- Tags: experimental, glitch, hyperglitch, idm, psychedelic 
+	- Demo submissions: geometric.corruption@gmail.com
+
+- [glitch[dot]cool](https://glitchdotcool.bandcamp.com/) ❤️
+	- Tags: bass music, dnb, glitch, hyperglitch, idm
+
 - [Gravitas Recordings](https://music.gravitasrecordings.com/)
 	- Tags: bass music, downtempo, tribal, world, trap
 	- Demo submissions: [here](https://gravitasrecordings.com/demo-submissions/).
