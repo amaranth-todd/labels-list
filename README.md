@@ -22,6 +22,10 @@ Note: contact and demo submission information may change without warning. Please
 - [Amek Collective](https://amekcollective.bandcamp.com/) 🚫
 	- Tags: ambient, drone, experimental, field recordings, noise
 
+- [ant-zen](https://ant-zen.bandcamp.com/)
+	- Tags: ambient, idm, industrial, noise, techno
+	- Demo submissions: cd and cd-r only. See the [ant-zen Facebook page](https://www.facebook.com/antzen.official) for specifics.
+
 - [aural electronics](https://aural-electronics.bandcamp.com/) ❤️
 	- Tags: abstract, ambient, experimental, idm, techno
 	- Demo submissions: auralelectronics.info@gmail.com
