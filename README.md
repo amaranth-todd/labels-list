@@ -110,6 +110,9 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: bass music, downtempo, tribal, world, trap
 	- Demo submissions: [here](https://gravitasrecordings.com/demo-submissions/).
 
+- [Heterodox Records](https://heterodox-records.bandcamp.com/)
+	- Tags: ambient, experimental, glitch, idm
+
 - [husoptagelser](https://husoptagelser.bandcamp.com/) ❤️ 💀
 	- Tags: ambient, beats, electronica, glitch, hiphop
 
