@@ -221,7 +221,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: dubstep, drum & bass, experimental, glitch, idm, techno
 	- Demo submissions: demos@renraku.global, audio streaming links only (preferably Soundcloud), please include contact details in email body.
 
-- [Rotten \ Fresh](https://rottenfresh.bandcamp.com/)
+- [Rotten \ Fresh](https://rottenfresh.bandcamp.com/) ❤️
 	- Tags: ambient, drone, glitch, idm
 	- Demo submissions: rottenfreshmusic@gmail.com
 
