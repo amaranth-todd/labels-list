@@ -103,7 +103,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: experimental, glitch, hyperglitch, idm, psychedelic 
 	- Demo submissions: geometric.corruption@gmail.com
 
-- [glitch[dot]cool](https://glitchdotcool.bandcamp.com/) ❤️
+- [glitch[dot]cool](https://glitchdotcool.bandcamp.com/) ❤️ 🚫
 	- Tags: bass music, dnb, glitch, hyperglitch, idm
 
 - [Gravitas Recordings](https://music.gravitasrecordings.com/)
