@@ -235,7 +235,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: ambient, experimental, idm, industrial, techno
 
 - [Sanctuary Collective](https://soundcloud.com/sanctuarycollective)
-	- Tags: experimental
+	- Tags: bass music, drum & bass, experimental, neuro
 	- Demo submissions: https://forms.gle/HKakfeAMyvKzV56R9
 
 - [Serendip Lab](https://serendiplab.bandcamp.com/)
