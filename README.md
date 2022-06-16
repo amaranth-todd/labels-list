@@ -171,7 +171,7 @@ Note: contact and demo submission information may change without warning. Please
 - [Onset Audio](https://onsetaudio.bandcamp.com/)
 	- Tags: ambient, bass music, beats, experimental, techno 
 
-- [Open Outlets](https://openoutlets.bandcamp.com/) ❤️
+- [Open Outlets](https://openoutlets.bandcamp.com/) ❤️ 💀
 	- Tags: drum & bass, dubstep, psychedelic, techno
 	- Demo submissions: openoutlets@gmail.com
 
@@ -234,12 +234,16 @@ Note: contact and demo submission information may change without warning. Please
 - [S27](https://section27.bandcamp.com/)
 	- Tags: ambient, experimental, idm, industrial, techno
 
+- [Sanctuary Collective](https://soundcloud.com/sanctuarycollective)
+	- Tags: experimental
+	- Demo submissions: https://forms.gle/HKakfeAMyvKzV56R9
+
 - [Serendip Lab](https://serendiplab.bandcamp.com/)
 	- Tags: experimental, glitch, idm, industrial, synthwave
 
 - [Sound Museum](https://soundmuseum.bandcamp.com/)
 	- Tags: bass music, drum & bass, future bass, neuro
-	- Via [Bandcamp](https://bandcamp.com/contact?b=394518914&n=SoundMuseum), make sure demos are streamable, downloadable, unreleased,
+	- Demo subbmissions: via [Bandcamp](https://bandcamp.com/contact?b=394518914&n=SoundMuseum), make sure demos are streamable, downloadable, unreleased,
 complete (no mixes or snippets) 320 kbps MP3s.
 
 - [Subtext Recordings](https://subtextrecordings.bandcamp.com/)
