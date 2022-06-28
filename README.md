@@ -121,6 +121,9 @@ Note: contact and demo submission information may change without warning. Please
 
 - [IDMforums Netlabel](https://idmfnetlabel.bandcamp.com/)
 	- Tags: ambient, breaks, glitch, idm, techno
+	
+- [Infinito Audio](https://infinitoaudio.bandcamp.com/)
+	- Tags: breakbeat, experimental, hyperpop, idm 
 
 - [Inspected](https://inspected.bandcamp.com/)
 	- Tags: breaks, downtempo, drum & bass, dubstep, glitch
@@ -155,6 +158,9 @@ Note: contact and demo submission information may change without warning. Please
 
 - [Mesh](https://meshmeshmesh.bandcamp.com/)
 	- Tags: ambient, experimental, idm, techno
+	
+- [МОСОБЛЭЛЕКТРО](https://mosoblelectro.bandcamp.com/) ❤️
+	- Tags: breakbeat, electro, house, techno
 
 - [MOZYK.NET](https://music.mozyk.net/) 💿
 	- Tags: ambient, breakcore, experimental, glitch, idm
