@@ -122,7 +122,7 @@ Note: contact and demo submission information may change without warning. Please
 - [IDMforums Netlabel](https://idmfnetlabel.bandcamp.com/)
 	- Tags: ambient, breaks, glitch, idm, techno
 	
-- [Infinito Audio](https://infinitoaudio.bandcamp.com/)
+- [Infinito Audio Network](https://infinitoaudio.bandcamp.com/)
 	- Tags: breakbeat, experimental, hyperpop, idm 
 
 - [Inspected](https://inspected.bandcamp.com/)
