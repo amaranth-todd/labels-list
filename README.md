@@ -79,6 +79,9 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: bass music, drum & bass, grime, house, neuro
 	- Demo submissions: https://visionrecordings.nl/demos, track(s) must not be publically available, use a private Soundcloud link, enable downloads (mp3 only), include a valid email address.
 
+- [Dreamcode Recordings](https://dreamcoderecordings.bandcamp.com/) ❤️
+	- Tags: breakcore, drum & bass, dubstep, hyperglitch, idm, industrial
+
 - [Enig'matik Records](https://enigmatikrecords.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, glitch, glitch hop, idm
 
