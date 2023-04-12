@@ -276,6 +276,10 @@ complete (no mixes or snippets) 320 kbps MP3s.
 - [VISION](https://soundcloud.com/VisionRecordings)
 	- Tags: bass music, drum & bass, neuro
 	- Demo submissions: https://visionrecordings.nl/demos, track(s) must not be publically available, use a private Soundcloud link, enable downloads (mp3 only), include a valid email address.
+	
+- [Virtual Urban Records](https://virtualurbanrecords.bandcamp.com/) ❤️
+	- Tags: acid, braindance, ebm, idm, techno
+	- Demo submissions: virtualurbanrecords@gmail.com
 
 - [Weisskalt Records](https://weisskaltrecords.bandcamp.com/) ❤️
 	- Tags: experimental, psychedelic
