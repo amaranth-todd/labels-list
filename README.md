@@ -53,7 +53,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: acid, ebm, electro, idm, techno
 	- Demo submissions: info@brokntoys.net
 
-- [Clean Error](https://cleanerrorrecords.bandcamp.com/)
+- [Clean Error Records](https://cleanerrorrecords.bandcamp.com/)
 	- Tags: abstract, ambient, experimental, glitch, idm
 
 - [Concrete Collage](https://concretecollage.bandcamp.com/) ❤️ 🚫
