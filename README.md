@@ -98,6 +98,10 @@ Note: contact and demo submission information may change without warning. Please
 - [Forest Biz](https://forestbiz.bandcamp.com/) ❤️ 🚫
 	- Tags: beats, dance, dubstep, drum & bass, idm
 
+- [Full Flex Audio](https://www.fullflexaudio.co.uk/) ❤️
+	- Tags: dance, dubstep, edm
+	- Demo submissions: https://www.fullflexaudio.co.uk/demo-submissions
+
 - [Future Disorder](https://futuredisorder.bandcamp.com/)
 	- Tags: ambient, downtempo, experimental, glitch, idm
 	- Demo submissions: camiloisdead@aol.com, unpublished/unreleased tracks only.
