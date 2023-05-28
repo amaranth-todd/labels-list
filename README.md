@@ -1,4 +1,4 @@
-# Labels List for Hyperglitch Weirdos
+# Labels List for Hyperglitch Releases
 
 Note: contact and demo submission information may change without warning. Please check the label's respective homepage.
 
@@ -66,7 +66,10 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: beats, experimental, turntablism
 
 - [D-Trash Records](https://d-trashrecords.bandcamp.com/) ❤️
-	- Tags: abstract, breakcore, hardcore, metal, techno 
+	- Tags: abstract, breakcore, hardcore, metal, techno
+
+- [darqlab_media](https://darqlabmedia.bandcamp.com/)
+	- Tags: ambient, idm, psychedelic, sound design
 
 - [DEFCON 1](https://defkon1.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, dubstep, experimental
