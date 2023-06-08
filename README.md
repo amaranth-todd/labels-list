@@ -155,6 +155,10 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: ambient, drone, experimental
 	- Demo submissions: krankyinfo@gmail.com
 
+- [Little Bad One](https://littlebadone.bandcamp.com/)
+        - Tags: deconstructed club, experimental, glitch, noise, soundscape
+        - Demo submissions: via Instagram @littlebadonerecords
+
 - [Love Love Records](https://loveloverecords.bandcamp.com/)
 	- Tags: acid, breakcore, experimental, idm, techno
 
