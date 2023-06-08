@@ -157,7 +157,7 @@ Note: contact and demo submission information may change without warning. Please
 
 - [Little Bad One](https://littlebadone.bandcamp.com/)
 	- Tags: deconstructed club, experimental, glitch, noise, soundscape
-	- Demo submissions: via Instagram @littlebadonerecords
+	- Demo submissions: via Instagram [@littlebadonerecords](https://www.instagram.com/littlebadonerecords/)
 
 - [Love Love Records](https://loveloverecords.bandcamp.com/)
 	- Tags: acid, breakcore, experimental, idm, techno
