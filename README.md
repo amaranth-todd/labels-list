@@ -295,6 +295,9 @@ complete (no mixes or snippets) 320 kbps MP3s.
 	- Tags: acid, braindance, ebm, idm, techno
 	- Demo submissions: virtualurbanrecords@gmail.com
 
+- [Void Cult](https://voidcultbass.bandcamp.com/) ❤️
+	- Tags: bass, experimental
+
 - [Weisskalt Records](https://weisskaltrecords.bandcamp.com/) ❤️
 	- Tags: experimental, psychedelic
 
