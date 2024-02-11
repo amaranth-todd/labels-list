@@ -42,7 +42,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: ambient, experimental, glitch, idm
 	- Demo submissions: lamanofria@gmail.com
 
-- [BFF Music](
+- [BFF Music](https://bffmusicbffmusic.bandcamp.com/)
 	- Tags: deconstructed club, experimental, sound collage
    	- Demo submissions: [read here](https://docs.google.com/document/d/1u3do39ljcbJlhnxnvS8V88xTGegl7SXkIT2BHUX64AA/).
 
