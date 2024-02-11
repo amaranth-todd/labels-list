@@ -34,7 +34,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: abstract, ambient, experimental, idm, techno
 	- Demo submissions: auralelectronics.info@gmail.com
 
-- [Bedroom Research](https://bedroomresearch.bandcamp.com/) 💀
+- [Bedroom Research](https://bedroomresearch.bandcamp.com/)
 	- Tags: breakcore, dubstep, idm, sound design, techno
 	- Demo submissions: audio streaming links only.
 
