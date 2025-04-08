@@ -272,9 +272,12 @@ Note: contact and demo submission information may change without warning. Please
 - [Serendip Lab](https://serendiplab.bandcamp.com/)
 	- Tags: experimental, glitch, idm, industrial, synthwave
 
+- [Simic Records](https://simicrecords.bandcamp.com/) ❤️
+	- Tags: bass music, drum and bass, dubstep, experimental, footwork
+
 - [Sound Museum](https://soundmuseum.bandcamp.com/)
 	- Tags: bass music, drum & bass, future bass, neuro
-	- Demo subbmissions: via [Bandcamp](https://bandcamp.com/contact?b=394518914&n=SoundMuseum), make sure demos are streamable, downloadable, unreleased,
+	- Demo submissions: via [Bandcamp](https://bandcamp.com/contact?b=394518914&n=SoundMuseum), make sure demos are streamable, downloadable, unreleased,
 complete (no mixes or snippets) 320 kbps MP3s.
 
 - [Subtext Recordings](https://subtextrecordings.bandcamp.com/)
