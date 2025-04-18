@@ -96,6 +96,10 @@ Note: contact and demo submission information may change without warning. Please
 - [Enig'matik Records](https://enigmatikrecords.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, glitch, glitch hop, idm
 
+- [Error Prone Records](https://errorpronerecords.bandcamp.com/) 💿
+	- Tags: electronic, experimental, soundscape
+	- Demo submissions: currently accepting.
+
 - [EVEL RECORDS](https://evel.bandcamp.com/)
 	- Tags: acid, breaks, drum & bass, idm
 	- Demo submissions: demos@evelrecords.com
