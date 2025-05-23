@@ -30,6 +30,9 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: ambient, breakcore, experimental, idm, leftfield
    	- Demo submissions: anybodyuniverse@gmail.com
 
+- [appendix.files](https://appendixfiles.bandcamp.com/)
+	- Tags: ambient, bass, breakbeat, experimental, idm 
+
 - [aural electronics](https://aural-electronics.bandcamp.com/) ❤️
 	- Tags: abstract, ambient, experimental, idm, techno
 	- Demo submissions: auralelectronics.info@gmail.com
@@ -82,6 +85,9 @@ Note: contact and demo submission information may change without warning. Please
 - [DEFCON 1](https://defkon1.bandcamp.com/) ❤️
 	- Tags: bass music, drum & bass, dubstep, experimental
 	- Demo submissions: defkon1label@gmail.com
+
+- [Defunkt Records](https://defunktrecords.bandcamp.com/) ❤️
+	- Tags: acid, braindance, breakcore, experimental, idm
 
 - [DETROIT UNDERGROUND](https://detund.bandcamp.com/) ❤️
 	- Tags: ambient, experimental, glitch, idm, techno
