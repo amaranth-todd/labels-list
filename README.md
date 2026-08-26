@@ -49,7 +49,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: deconstructed club, experimental, sound collage
    	- Demo submissions: [read here](https://docs.google.com/document/d/1u3do39ljcbJlhnxnvS8V88xTGegl7SXkIT2BHUX64AA/).
 
-- [Bifloral Records](https://bifloralrecords.bandcamp.com/)
+- [Bifloral Records](https://bifloralrecords.bandcamp.com/) ❤️
 	- Tags: experimental electronic glitch hyperglitch lofi
 
 - [Billegal Beats](https://billegalbeats.bandcamp.com/) ❤️
