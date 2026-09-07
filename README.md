@@ -1,4 +1,4 @@
-# Labels List for Hyperglitch Releases
+# Labels List for Hyperglitch-Adjacent Releases
 
 Note: contact and demo submission information may change without warning. Please check the label's respective homepage.
 
