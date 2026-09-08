@@ -9,15 +9,18 @@ Note: contact and demo submission information may change without warning. Please
 
 🚫 - not accepting demos
 
-💿 - primarily physical releases
+💿 - physical releases
 
 ## Labels
 - [Abstrakt Reflections](https://abstraktreflections.bandcamp.com/) ❤️
 	- Tags: abstract, experimental, glitch, idm, sound design
 	- Demo submissions: demos@abstraktreflections.net, avoid sending Soundcloud links or single tracks, use a service like WeTransfer, Dropbox etc.
 
-- [Acre Recordings](https://acrerecordings.bandcamp.com/)
+- [Acre Recordings](https://acrerecordings.bandcamp.com/) 
 	- Tags: experimental, glitch, idm, techno
+
+- [AFTER AFFECTS REC](https://afteraffectsrec.bandcamp.com/) ❤️ 💀
+	- Tags: abstract, ambient, experimental, glitch, idm
 
 - [Amek Collective](https://amekcollective.bandcamp.com/) 🚫
 	- Tags: ambient, drone, experimental, field recordings, noise
@@ -118,6 +121,9 @@ Note: contact and demo submission information may change without warning. Please
 - [Forest Biz](https://forestbiz.bandcamp.com/) ❤️ 🚫
 	- Tags: beats, dance, dubstep, drum & bass, idm
 
+- [formforum](https://formforum.bandcamp.com/)
+	- Tags: electronic
+
 - [Full Flex Audio](https://www.fullflexaudio.co.uk/) ❤️
 	- Tags: dance, dubstep, edm
 	- Demo submissions: https://www.fullflexaudio.co.uk/demo-submissions
@@ -130,7 +136,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: experimental, glitch, hyperglitch, idm, psychedelic 
 	- Demo submissions: geometric.corruption@gmail.com
 
-- [glitch[dot]cool](https://glitchdotcool.bandcamp.com/) ❤️ 🚫
+- [glitch[dot]cool](https://glitchdotcool.bandcamp.com/) ❤️ 💿 🚫
 	- Tags: bass music, dnb, glitch, hyperglitch, idm
 
 - [Gravitas Recordings](https://music.gravitasrecordings.com/)
@@ -148,7 +154,10 @@ Note: contact and demo submission information may change without warning. Please
 
 - [IDMforums Netlabel](https://idmfnetlabel.bandcamp.com/)
 	- Tags: ambient, breaks, glitch, idm, techno
-	
+
+- [INCOMPLETE BURNING](https://incompleteburning.bandcamp.com/) ❤️ 💿
+	- Tags: ambient, deconstructed club, experimental, hyperglitch, noise 
+
 - [Infinito Audio Network](https://infinitoaudio.bandcamp.com/)
 	- Tags: breakbeat, experimental, hyperpop, idm 
 
@@ -163,6 +172,9 @@ Note: contact and demo submission information may change without warning. Please
 
 - [Kaometry rec.](https://store.kaometry.com/) ❤️ 💀
 	- Tags: ambient, breaks, glitch, idm
+
+- [katharsis](https://katharsis-label.bandcamp.com/)
+	- Tags: abstract, ambient, deconstructed club, experimental, idm
  
 - [Kitty On Fire Records](https://kittyonfirerecords.bandcamp.com/)
 	- Tags: breakcore, hardcore, drum & bass, experimental
@@ -254,7 +266,7 @@ Note: contact and demo submission information may change without warning. Please
 	- Tags: acid, bass music, idm, techno
 	- Demo submissions: demos@pyramidtransmissions.com, send high quality audio files (preferably WAVs, FLACs or AIFFs) rather than linking to audio streaming sites.
 
-- [Renraku](https://renraku.bandcamp.com/)
+- [Renraku](https://renraku.bandcamp.com/) ❤️
 	- Tags: dubstep, drum & bass, experimental, glitch, idm, techno
 	- Demo submissions: demos@renraku.global, audio streaming links only (preferably Soundcloud), please include contact details in email body.
 
